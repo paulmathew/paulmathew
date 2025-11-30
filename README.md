@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1500x500/0d1117/38bdf8?text=Senior+Android+Tech+Lead+%7C+Jetpack+Compose+%7C+Mobile+Architect" alt="Banner" width="100%" />
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Paul%20Mathew&desc=Senior%20Android%20Technical%20Lead&descAlign=50&descAlignY=65&textBg=false&fontSize=70&descSize=25&animation=fadeIn" alt="Header" width="100%" /></div>
 <br />
 
 <div align="center">
@@ -54,30 +52,22 @@
 > **Project: CallInspector** > A complete Android diagnostics suite for audio, video, network & device-level checks.  
 > Built using Jetpack Compose, Hilt, Room, Zoom Video SDK, and a multi-module architecture.
 
-<table>
-  <tr>
-    <td width="55%">
-      <h3 align="center">CallInspector</h3>
-      <p align="center">
-        A full-stack diagnostics tool offering mic tests, speaker tests, network pings, Zoom SDK integration,
-        OS-level device checks, and performance insights. Designed for reliability and scalability.
-      </p>
-      <div align="center">
-        <a href="https://github.com/paulmathew/CallInspector">
-          <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  
-  </tr>
-</table>
-
+<div align="center">
+  <h3>CallInspector</h3>
+  <p>
+    A full-stack diagnostics tool offering mic tests, speaker tests, network pings, Zoom SDK integration,
+    OS-level device checks, and performance insights. Designed for reliability and scalability.
+  </p>
+  <a href="https://github.com/paulmathew/CallInspector">
+    <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 <br />
 
 ### 📊 **Engineering Metrics**
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulmathew&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=paulmathew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulmathew&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paulmathew&theme=tokyonight" height="180" />
 </div>
 
 <div align="center">
