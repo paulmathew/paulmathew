@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-  <h3>Senior Android Technical Lead | 12+ Years | Jetpack Compose | Ex-Founder</h3>
+  <h3>Architecting Scalable Mobile Systems | 12+ Years Exp | Ex-Founde</h3>
   
   <p>
     I build reliable, scalable, high-performance Android systems.  
