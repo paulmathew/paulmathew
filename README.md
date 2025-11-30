@@ -3,7 +3,6 @@
 <br />
 
 <div align="center">
-  <h1>Hi, I'm <a href="https://github.com/paulmathew">Paul Mathew</a> 👋</h1>
   <h3>Senior Android Technical Lead | 12+ Years | Jetpack Compose | Ex-Founder</h3>
   
   <p>
