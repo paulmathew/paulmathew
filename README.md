@@ -68,9 +68,7 @@
         </a>
       </div>
     </td>
-    <td width="45%">
-      <img src="https://via.placeholder.com/600x300/161b22/FFFFFF?text=CallInspector+UI+Preview" alt="CallInspector Demo" />
-    </td>
+  
   </tr>
 </table>
 
@@ -78,8 +76,8 @@
 
 ### 📊 **Engineering Metrics**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulmathew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulmathew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulmathew&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=paulmathew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" alt="languages" />
 </div>
 
 <div align="center">
