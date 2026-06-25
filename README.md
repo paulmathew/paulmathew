@@ -46,7 +46,7 @@ Previously, I led Android engineering for a global coaching platform used across
 
 # 🚀 Featured Projects
 
-## ResilientAIStreamer
+## 🤖 ResilientAIStreamer
 
 > A production-style Android AI-agent vertical slice focused on on-device ML, resilient streaming UX, partial failure recovery, retry-from-failure, and observability.
 
@@ -65,7 +65,18 @@ ResilientAIStreamer explores what happens when AI interactions are not perfectly
 
 ### Built With
 
-`Kotlin` · `Jetpack Compose` · `StateFlow` · `Coroutines / Flow` · `Hilt` · `Google ML Kit` · `On-device ML` · `AI-agent UX` · `Retry / Recovery` · `Observability`
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/StateFlow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coroutines%20%2F%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hilt-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/On--device%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--agent%20UX-8E44AD?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retry%20%2F%20Recovery-238636?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Observability-238636?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 <div align="center">
   <a href="https://github.com/paulmathew/ResilientAIStreamer">
@@ -75,7 +86,7 @@ ResilientAIStreamer explores what happens when AI interactions are not perfectly
 
 <br />
 
-## PulseSync
+## 🔄 PulseSync
 
 > A premium offline-first collaborative Android experience designed for unreliable mobile networks.
 
@@ -93,7 +104,16 @@ PulseSync explores how sophisticated synchronization systems can quietly create 
 
 ### Built With
 
-`Kotlin` · `Jetpack Compose` · `StateFlow` · `Hilt` · `Room` · `WorkManager` · `Offline-first synchronization` · `Conflict Resolution`
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/StateFlow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hilt-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/WorkManager-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Offline--First%20Sync-5C6BC0?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conflict%20Resolution-8E44AD?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/paulmathew/PulseSync/main/docs/screenshots/v2/workspace-feed.png" width="260"/>
@@ -109,7 +129,7 @@ PulseSync explores how sophisticated synchronization systems can quietly create 
 
 <br />
 
-## CallInspector
+## 📞 CallInspector
 
 > Android diagnostics and realtime communication reliability tooling for unstable mobile call environments.
 
@@ -126,7 +146,17 @@ CallInspector explores how Android teams can debug call readiness, media routing
 
 ### Built With
 
-`Kotlin` · `Jetpack Compose` · `Zoom Video SDK` · `Hilt` · `Room` · `Coroutines / Flow` · `Multi-module Architecture` · `Realtime Diagnostics` · `Mobile Observability`
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zoom%20Video%20SDK-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hilt-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coroutines%20%2F%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Module%20Architecture-5C6BC0?style=flat-square&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Realtime%20Diagnostics-2D8CFF?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile%20Observability-238636?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 <div align="center">
   <a href="https://github.com/paulmathew/CallInspector">
@@ -146,7 +176,7 @@ CallInspector explores how Android teams can debug call readiness, media routing
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
 <img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-00599C?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/StateFlow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Hilt-D00000?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/WorkManager-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Retrofit%20%2F%20OkHttp-00599C?style=for-the-badge&logo=square&logoColor=white" />
@@ -154,9 +184,9 @@ CallInspector explores how Android teams can debug call readiness, media routing
 <img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/On--Device%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow%20Lite--Ready-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/AI--Agent%20UX-8E44AD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Realtime%20Systems-2D8CFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Offline--First%20Architecture-5C6BC0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI--Agent%20UX-8E44AD?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Realtime%20Systems-2D8CFF?style=for-the-badge&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/Offline--First%20Architecture-5C6BC0?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Zoom%20Video%20SDK-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 <img src="https://img.shields.io/badge/Multi--Module%20Architecture-5C6BC0?style=for-the-badge&logo=gradle&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -167,7 +197,7 @@ CallInspector explores how Android teams can debug call readiness, media routing
 
 # 🧠 Engineering Focus Areas
 
-## Android Platform Architecture
+## 📱 Android Platform Architecture
 
 * Modular Android architecture designed for maintainability and scale
 * Kotlin-first application foundations with clean boundaries
@@ -177,7 +207,7 @@ CallInspector explores how Android teams can debug call readiness, media routing
 * Local persistence with Room and DataStore-style patterns
 * Gradle and CI/CD workflows for production Android delivery
 
-## Realtime Communication Reliability
+## 📞 Realtime Communication Reliability
 
 * Camera, microphone, speaker, and permission-state handling
 * Audio routing and call-environment diagnostics
@@ -186,7 +216,7 @@ CallInspector explores how Android teams can debug call readiness, media routing
 * Network-aware user experience and debugging flows
 * Observability patterns for call instability and runtime failures
 
-## Offline-First & Sync Systems
+## 🔄 Offline-First & Sync Systems
 
 * Optimistic UI and local-first interaction models
 * Retry, backoff, and sync recovery workflows
@@ -195,7 +225,7 @@ CallInspector explores how Android teams can debug call readiness, media routing
 * State restoration after process death or unstable connectivity
 * Clear user feedback around pending, failed, and recovered actions
 
-## AI-Agent Mobile UX
+## 🤖 AI-Agent Mobile UX
 
 * Streaming state management with Kotlin Flow
 * Partial-response preservation
