@@ -284,5 +284,6 @@ CallInspector explores how Android teams can debug call readiness, media routing
 </div>
 
 ![](https://hit.yhype.me/github/profile?account_id=3655706)
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fpaulmathew%2Fpaulmathew%2Fedit%2Fmain%2FREADME.md&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fpaulmathew&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+
 
