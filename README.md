@@ -6,9 +6,9 @@
 
 <div align="center">
 
-### Senior Android Engineer building SDK-style mobile systems, realtime communication tooling, offline-first platforms, and AI-agent Android experiences.
+### Senior Android Engineer building native Android platforms, offline voice experiences, realtime communication tooling, and resilient mobile systems.
 
-Senior Android Engineer / Android Technical Lead with 12+ years of experience building production Android applications, mobile platform architecture, realtime communication features, offline-first systems, and resilient AI-style interaction flows.
+Senior Android Engineer / Android Technical Lead with 13+ years of experience building production Android applications, mobile platform architecture, realtime communication features, offline-first systems, and resilient AI-style interaction flows.
 
 My work focuses on Kotlin, Jetpack Compose, Android SDK architecture, structured concurrency, realtime behavior, synchronization reliability, mobile observability, and user experiences that continue to feel stable under unreliable network, device, and runtime conditions.
 
@@ -33,6 +33,7 @@ I build production-grade Android systems where reliability, architecture, and us
 
 My strongest areas are:
 
+* **On-device speech and cross-app dictation** with native audio pipelines, JNI inference, and focus-safe Android input
 * **Android SDK-style architecture** for reusable, modular, developer-friendly mobile systems
 * **Offline-first mobile platforms** with local persistence, retry workflows, optimistic updates, and conflict recovery
 * **Realtime communication reliability** across camera, microphone, speaker, network, lifecycle, and foreground-service behavior
@@ -45,6 +46,58 @@ Previously, I led Android engineering for a global coaching platform used across
 ---
 
 # 🚀 Featured Projects
+
+## 🎙️ [Uttra (ഉത്ര)](https://github.com/paulmathew/Uttra) — Offline Android Voice Dictation
+
+> An independent native Android engineering prototype exploring fully **offline, cross-application English and Malayalam dictation**, with editor-safe text insertion and transparent recognition experiments.
+
+Uttra is my hands-on exploration of what it takes to move from speech recognition to a usable **Android-wide dictation experience**. It brings a floating microphone into eligible text fields in other apps, runs speech recognition locally after initial model provisioning, and inserts the result only when the original editor is still valid.
+
+### Highlights
+
+* **Cross-App Input:** Accessibility-driven microphone overlay with focus, window, session, and cursor safeguards to protect against stale or incorrect text insertion.
+* **Two On-Device ASR Engines:** Whisper Tiny via `whisper.cpp`, C++ and JNI for English; IndicConformer INT8 via `sherpa-onnx` for Malayalam.
+* **Android Platform Engineering:** Kotlin, Jetpack Compose, foreground microphone recording, audio decoding, asynchronous inference, and recoverable recording/processing states.
+* **Reliability & Diagnostics:** Blank-transcript rejection, RMS/peak audio filtering, experimental confidence-based language routing, and explicit failure handling.
+* **Measured Exploration:** Documented recognition timings, model trade-offs, and six selected single-language test recordings; openly reported experiments that did not work.
+
+**Beta scope:** English and Malayalam are demonstrated in **separate recordings** on a Pixel 7a. Automatic code-switching within one utterance is not reliably supported; automatic language routing remains experimental in debug builds.
+
+### Built With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Accessibility-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B%20%2F%20JNI-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/whisper.cpp-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/sherpa--onnx-5C6BC0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Offline%20ASR-0E8A6A?style=flat-square" />
+</p>
+
+### Watch It in Action
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1YYXVFZLFTLZ1IvxuGwhyO-xscmfLVdzm/view?usp=sharing">
+    <img src="https://raw.githubusercontent.com/paulmathew/Uttra/main/docs/assets/screenshots/02-home.png" alt="Uttra native Android home screen" width="210" />
+  </a>
+  <a href="https://drive.google.com/file/d/1YYXVFZLFTLZ1IvxuGwhyO-xscmfLVdzm/view?usp=sharing">
+    <img src="https://raw.githubusercontent.com/paulmathew/Uttra/main/docs/assets/screenshots/06-english-malayalam.png" alt="English and Malayalam text inserted into another Android app" width="210" />
+  </a>
+</p>
+
+<p align="center"><sub>62-second Pixel 7a demo · Airplane mode enabled · Separate English and Malayalam dictation</sub></p>
+
+<div align="center">
+  <a href="https://github.com/paulmathew/Uttra">
+    <img src="https://img.shields.io/badge/Explore_Uttra_Source-238636?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1YYXVFZLFTLZ1IvxuGwhyO-xscmfLVdzm/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Watch_Offline_Demo-0E8A6A?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
+
+<br />
 
 ## 🤖 ResilientAIStreamer
 
@@ -267,6 +320,7 @@ CallInspector explores how Android teams can debug call readiness, media routing
 
 # 🌱 Currently Exploring
 
+* On-device speech recognition, voice dictation, and cross-application Android input
 * Android SDK-style architecture and developer-facing mobile platforms
 * AI-agent interaction patterns on Android
 * On-device ML and TensorFlow Lite-ready mobile architecture
